@@ -1,1 +1,8 @@
-# HouseholdRecordApplication
+# 家計記録アプリケーション
+
+---
+
+##  Android向け家計簿アプリ
+
+### 対象
+- Android7.0以上
