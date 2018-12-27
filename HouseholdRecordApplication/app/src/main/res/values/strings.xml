@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HouseholdRecordApplication</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="incomeLabelText">収入</string>
+    <string name="expenseLabelText">支出</string>
+    <string name="differencePriceLabelText">差</string>
+</resources>
